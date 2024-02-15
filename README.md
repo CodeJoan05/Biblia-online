@@ -13,3 +13,6 @@
 * Wpisz w terminalu tę komendę:
    
 ```node server.js```
+
+## **Strona internetowa:**
+* https://biblia-online-zbj1.onrender.com/
