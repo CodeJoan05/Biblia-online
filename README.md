@@ -10,6 +10,6 @@
 
 ## **Uruchomienie serwera** 
 
-* Wpisz w terminalu tą komendę:
+* Wpisz w terminalu tę komendę:
    
 ```node server.js```
