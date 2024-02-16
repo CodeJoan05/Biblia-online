@@ -6,22 +6,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Interaktywna Biblia online. Zawiera przekłady Biblii w języku polskim, angielskim, niemieckim, greckim, łacińskim i hebrajskim.">
+    <meta name="description" content="Interaktywna Biblia online. Zawiera przekłady Pisma Świętego w języku polskim, angielskim, niemieckim, łacińskim, greckim i hebrajskim.">
     <meta name="keywords" content="Biblia, Bible, Interaktywna Biblia online, biblia online, przekłady Biblii, Słowo Boże, Pismo Święte, Word of God, Holy Bible, święta księga">
     <title>Biblia online</title>
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </noscript>
     <link rel="shortcut icon" href="Images/Biblia.png" type="image/x-icon">
     <script defer src="scripts/main.js"></script>
 </head>
 
 <body>
 
-    <header>
+    <header class="container sticky-top pt-2 pb-2">
         <div id="navigation">
-            <select id="bibles"></select>
-            <select id="books"></select>
-            <select id="chapters"></select>
-            <select id="verse"></select>
+            <select class="form-control" id="bibles"></select>
+            <select class="form-control" id="books"></select>
+            <select class="form-control" id="chapters"></select>
+            <select class="form-control" id="verse"></select>
         </div>
     </header>
 

@@ -270,3 +270,6 @@ window.onload = function() {
         loadBibleData(translationFile, book, chapter);
     }
 };
+
+// Zastępuje zdarzenia 'unload' i 'beforeunload' zdarzeniem 'pagehide'
+window.addEventListener('pagehide', function(){});
