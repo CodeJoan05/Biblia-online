@@ -7,7 +7,7 @@ const publicPath = path.join(__dirname, 'public');
 app.use(express.static(publicPath));
 
 // Ścieżka do folderu z Biblią
-const biblePath = path.join(__dirname, 'public/Bible');
+const biblePath = path.join(__dirname, 'Bible');
 
 // Obsługa żądania pobrania listy przekładów Biblii
 app.get('/bibles', (req, res) => {
