@@ -15,4 +15,6 @@
 ```node server.js```
 
 ## **Strona internetowa:**
+
 * https://biblia-online-zbj1.onrender.com/
+* https://biblia-online-pl.glitch.me/
