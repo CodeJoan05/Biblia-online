@@ -120,8 +120,6 @@ main .row:nth-child(2n) {
     flex-wrap: wrap;
 }
 
-/* Stopka */
-
 footer {
     display: flex;
     justify-content: center;

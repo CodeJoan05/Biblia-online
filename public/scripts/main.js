@@ -47,7 +47,7 @@ const translationMap = {
     "Romans": "List do Rzymian",
     "1 Corinthians": "1 List do Koryntian",
     "2 Corinthians": "2 List do Koryntian",
-    "Galatians": "List do Galatów",
+    "Galatians": "List do Galacjan",
     "Ephesians": "List do Efezjan",
     "Philippians": "List do Filipian",
     "Colossians": "List do Kolosan",
