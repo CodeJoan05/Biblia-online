@@ -70,7 +70,7 @@ const translationMap = {
 
 // Mapowanie przekładów Biblii na ich nazwy w plikach JSON
 const bibleTranslationFiles = {
-    "Polskie": ["Biblia Brzeska (1563).json", "Biblia Nieświeska (1574).json", "Biblia Jakuba Wujka (1599).json", "Biblia Gdańska (1881).json", "Biblia Szwedzka (1948).json", "Biblia Poznańska (1975).json", "Biblia Warszawska (1975).json", "Słowo Życia (1989).json", "Biblia Tysiąclecia - wydanie V (1999).json", "Słowo Nowego Przymierza - przekład dosłowny (2004).json", "Biblia Góralska (2005).json", "Nowa Biblia Gdańska (2012).json", "Biblia Paulistów (2016).json", "Uwspółcześniona Biblia Gdańska (2017).json", "Biblia Ekumeniczna (2018).json", "Słowo Nowego Przymierza - przekład literacki (2018).json", "Przekład Toruński Nowego Przymierza (2020).json", "Textus Receptus Oblubienicy (2023).json"],
+    "Polskie": ["Biblia Brzeska (1563).json", "Biblia Nieświeska (1574).json", "Biblia Jakuba Wujka (1599).json", "Biblia Gdańska (1632).json", "Biblia Gdańska (1881).json", "Biblia Szwedzka (1948).json", "Biblia Poznańska (1975).json", "Biblia Warszawska (1975).json", "Słowo Życia (1989).json", "Biblia Tysiąclecia - wydanie V (1999).json", "Słowo Nowego Przymierza - przekład dosłowny (2004).json", "Biblia Góralska (2005).json", "Nowa Biblia Gdańska (2012).json", "Biblia Paulistów (2016).json", "Uwspółcześniona Biblia Gdańska (2017).json", "Biblia Ekumeniczna (2018).json", "Słowo Nowego Przymierza - przekład literacki (2018).json", "Przekład Toruński Nowego Przymierza (2020).json", "Textus Receptus Oblubienicy (2023).json"],
     "Angielskie": ["King James Version (1611).json"],
     "Niemieckie": ["Schlachter Bibel (1951).json"],
     "Łacińskie": ["Wulgata.json"],
