@@ -31,6 +31,10 @@ node server.js
 
 * https://web.rbiblia.toborek.info/
 
+<p>Plik z Biblią Gdańską (1632) został utworzony z plików tekstowych, które pochodzą z:</p>
+
+* https://github.com/piotrskurzynski/biblia/
+
 ## **Strony internetowe:**
 
 * https://biblia-online-zbj1.onrender.com/
