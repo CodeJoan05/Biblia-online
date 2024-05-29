@@ -14,7 +14,7 @@ npm install express
 
 ## **Uruchomienie serwera** 
 
-* Wpisz w terminalu tę komendę:
+* Wpisz w terminalu następującą komendę:
    
 ``` javascript
 node server.js
