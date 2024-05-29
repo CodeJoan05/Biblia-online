@@ -74,7 +74,7 @@ const bibleTranslationFiles = {
     "Angielskie": ["King James Version (1611).json"],
     "Niemieckie": ["Schlachter Bibel (1951).json"],
     "Łacińskie": ["Wulgata.json"],
-    "Greckie": ["Textus Receptus (1550).json", "Tekst Bizantyjski (2013)"],
+    "Greckie": ["Textus Receptus (1550).json", "Tekst Bizantyjski (2013).json"],
     "Hebrajskie": ["Westminster Leningrad Codex.json"]
 };
 
